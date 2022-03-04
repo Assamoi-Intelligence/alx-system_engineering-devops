@@ -9,4 +9,8 @@
 8-firstdelete: delete the file betty in  /tmp/my_first_directory
 9-firstdirdeletion: delete the directory my_first_directory that is the /tmp directory
 10-back: changes the working directory to the previous one
+11-lists: lists all file in the current directory and the parent of current working directory and the /boot directory
+12-file_type: print the type of the file iamfile located in the /tmp directory
+13-symbolic_link: create a symbolic link to /bin/ls named __ls__
+14-copy_html: copy all file html from the current directory to the parent of working directory but only copy files that didn't exist.....
 
